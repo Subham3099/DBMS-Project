@@ -12,7 +12,7 @@
    .hello{
           margin-top: 60px;
           margin-bottom: 20px;}
-   .intro{margin-left: 100px;}
+   .intro{text-align:center;}
    .grid{display: grid;
     
 grid-template-columns: repeat(auto-fit,minmax(30rem,1fr));
