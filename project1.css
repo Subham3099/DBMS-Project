@@ -53,7 +53,7 @@ align-items: start;}
    }
    
    .card:hover{
-    color: #524b4b;
+    box-shadow: 5px 5px 3px #009688 ;
     transform: scale(1.03);
     transition: all 0.3s ease-in-out;
    }
